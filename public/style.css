@@ -1,0 +1,104 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #004d40;
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.search-container {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: #e0f2f1;
+}
+
+#categorySearch {
+    width: 50%;
+    max-width: 400px;
+    padding: 0.8rem;
+    border-radius: 25px;
+    border: 1px solid #b2dfdb;
+    font-size: 1rem;
+}
+
+#scheduleContainer {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.schedule-item {
+    display: flex;
+    margin-bottom: 1rem;
+    border-left: 3px solid #00796b;
+    padding-left: 1.5rem;
+}
+
+.time {
+    flex-basis: 120px;
+    font-weight: 700;
+    color: #004d40;
+    padding-top: 0.5rem;
+}
+
+.details {
+    flex-grow: 1;
+}
+
+.talk-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.talk-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.talk-card h2 {
+    margin-top: 0;
+    color: #00796b;
+}
+
+.speakers {
+    font-style: italic;
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+.categories {
+    margin-top: 1rem;
+}
+
+.category-tag {
+    display: inline-block;
+    background-color: #e0f2f1;
+    color: #00796b;
+    padding: 0.3rem 0.7rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    margin-right: 0.5rem;
+    font-weight: 500;
+}
+
+.break-item .details h2 {
+    color: #555;
+    font-style: italic;
+}

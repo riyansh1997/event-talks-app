@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "The Future of AI: Beyond Large Language Models",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning", "Future Tech"],
+    "duration": 60,
+    "description": "A deep dive into the next wave of artificial intelligence, exploring novel architectures and their potential impact on society."
+  },
+  {
+    "title": "Building Scalable Systems with Microservices",
+    "speakers": ["Johnathan Chen", "Maria Garcia"],
+    "category": ["Backend", "Architecture", "Cloud"],
+    "duration": 60,
+    "description": "Learn the principles of microservice architecture and best practices for designing, deploying, and managing a scalable system."
+  },
+  {
+    "title": "Modern Frontend: A Guide to a Declarative UI",
+    "speakers": ["Samantha Wu"],
+    "category": ["Frontend", "JavaScript", "UI/UX"],
+    "duration": 60,
+    "description": "Exploring the shift towards declarative UI patterns in modern web development and how it leads to more predictable and maintainable code."
+  },
+  {
+    "title": "Quantum Computing: From Theory to Practice",
+    "speakers": ["Dr. Alistair Finch"],
+    "category": ["Quantum", "Future Tech", "Hardware"],
+    "duration": 60,
+    "description": "An accessible introduction to the world of quantum computing, demystifying the core concepts and showcasing early real-world applications."
+  },
+  {
+    "title": "The Art of Secure Application Development",
+    "speakers": ["David Lee", "Aisha Khan"],
+    "category": ["Security", "DevSecOps"],
+    "duration": 60,
+    "description": "Practical strategies and tools for integrating security into every stage of the software development lifecycle."
+  },
+  {
+    "title": "Data Storytelling: Visualizing Insights for Impact",
+    "speakers": ["Isabella Rossi"],
+    "category": ["Data Science", "Visualization", "UI/UX"],
+    "duration": 60,
+    "description": "Discover how to turn raw data into compelling narratives through effective visualization techniques and storytelling principles."
+  }
+]
